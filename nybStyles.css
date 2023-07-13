@@ -190,9 +190,10 @@ h1.headText:hover {
 	display:float;
 }
 
+
 .websiteScreen {
 	margin-top: 1vw;
-	margin-bottom: 3.625vw;
+	margin-bottom: 1vw;
 	margin-left:.5vw;
 	margin-right:.5vw;
 	float:left;
@@ -201,6 +202,7 @@ h1.headText:hover {
 	display: block;
 
 }
+
 
 .imageWrap {
 	margin-top: 1vw;
@@ -221,6 +223,40 @@ h1.headText:hover {
 	object-fit: contain;
 	border-radius: 25px;
 }
+
+
+.galleryWrapVert {
+
+	border-radius: 25px;
+	background: #494d7e;
+	margin-left: auto;
+	margin-right: auto;
+	width: 45vw;
+	display:block;
+}
+
+.imageRowVert {
+	float:up;
+
+	margin-left: auto;
+	margin-right: auto;
+	width: 45vw;
+	height: 20vw;
+	display:float;
+}
+
+.websiteScreenVert {
+	margin-top: 1vw;
+	margin-bottom: 0vw;
+	margin-left:auto;
+	margin-right:auto;
+	float:up;
+	width: 32vw;
+	height: 18vw;
+	display: block;
+
+}
+
 
 A:link {text-decoration: none; color: #272744;}
 A:visited {text-decoration: none; color: #272744;}
